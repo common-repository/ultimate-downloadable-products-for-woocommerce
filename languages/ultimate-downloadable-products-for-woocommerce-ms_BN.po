@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ultimate-downloadable-products-for-woocommerce\n"
+"POT-Creation-Date: 2022-06-27 14:20+0700\n"
+"PO-Revision-Date: 2022-06-27 20:53+0700\n"
+"Last-Translator: \n"
+"Language-Team: ethereumicoio\n"
+"Language: ms_BN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:14
+msgid "Standard"
+msgstr "Standard"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:75
+msgid "Settings saved."
+msgstr "Tetapan disimpan."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:93
+#: ultimate-downloadable-products-for-woocommerce.php:559
+msgid "Ultimate Downloadable Products Settings"
+msgstr "Tetapan Produk Boleh Muat Turun Terbaik"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:99
+msgid "Awesome Premium Features"
+msgstr "Ciri Premium Hebat"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:100
+msgid "Per product ultimate downloadable input and more."
+msgstr "Input boleh muat turun muktamad setiap produk dan banyak lagi."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:102
+msgid "Upgrade Now!"
+msgstr "Menaiktaraf sekarang!"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:126
+msgid "Show downloads tab"
+msgstr "Tunjukkan tab muat turun"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:130
+msgid ""
+"If this setting is set, the Downloads tab is shown on the WooCommerce "
+"product page."
+msgstr ""
+"Jika tetapan ini ditetapkan, tab Muat Turun ditunjukkan pada halaman produk "
+"WooCommerce."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:136
+msgid "Show image thumbnails"
+msgstr "Tunjukkan lakaran kecil imej"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:147
+msgid ""
+"If this setting is set, image type files are shown with thumbnails generated."
+msgstr ""
+"Jika tetapan ini ditetapkan, fail jenis imej ditunjukkan dengan lakaran "
+"kecil yang dihasilkan."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:152
+#: ultimate-downloadable-products-for-woocommerce.admin.php:192
+#: ultimate-downloadable-products-for-woocommerce.admin.php:232
+#: ultimate-downloadable-products-for-woocommerce.admin.php:272
+#, php-format
+msgid "%1$sUpgrade Now!%2$s to enable this feature."
+msgstr "%1$sTingkatkan Sekarang!%2$s untuk mendayakan ciri ini."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:164
+#: ultimate-downloadable-products-for-woocommerce.admin.php:204
+#: ultimate-downloadable-products-for-woocommerce.admin.php:244
+#: ultimate-downloadable-products-for-woocommerce.admin.php:284
+#, php-format
+msgid "%1$sThe GD PHP module%2$s is required to enable this feature."
+msgstr "%1$sModul PHP GD%2$s diperlukan untuk mendayakan ciri ini."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:176
+msgid "Image thumbnail width"
+msgstr "Lebar lakaran kecil imej"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:187
+msgid "The generated thumbnail image width in pixels."
+msgstr "Lebar imej kecil yang dijana dalam piksel."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:216
+msgid "Blur image thumbnails"
+msgstr "Kaburkan lakaran kecil imej"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:227
+msgid ""
+"If this setting is set, thumbnails shown for image type files will be "
+"blurred with a gaussian filter."
+msgstr ""
+"Jika tetapan ini ditetapkan, lakaran kenit yang ditunjukkan untuk fail jenis "
+"imej akan dikaburkan dengan penapis gaussian."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:256
+msgid "Blur thumbnail strength"
+msgstr "Kaburkan kekuatan lakaran kecil"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:267
+msgid ""
+"The generated thumbnail image blur strength in the gaussian filter runs "
+"count."
+msgstr ""
+"Kekuatan kabur imej kecil yang dijana dalam kiraan larian penapis gaussian."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:306
+msgid "Want more features?"
+msgstr "Inginkan lebih banyak ciri?"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:308
+#, php-format
+msgid "Install the %1$sPRO plugin version%2$s!"
+msgstr "Pasang %1$spemalam profesional versi%2$s!"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:318
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:319
+msgid ""
+"Are you sure you want to delete all Ultimate Downloadable Products options?"
+msgstr ""
+"Adakah anda pasti mahu memadamkan semua pilihan Produk Boleh Muat Turun "
+"Muktamad?"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:325
+#, php-format
+msgid ""
+"If you like <strong>Ultimate Downloadable Products for WooCommerce</strong> "
+"please leave us a %1$s rating. A huge thanks in advance!"
+msgstr ""
+"Jika anda suka <strong>Produk Boleh Muat Turun Muktamad untuk WooCommerce</"
+"strong> sila berikan kami rating %1$s. Terima kasih yang tidak terhingga "
+"terlebih dahulu!"
+
+#: ultimate-downloadable-products-for-woocommerce.php:560
+msgid "Ultimate Downloadable Products"
+msgstr "Produk Boleh Muat Turun Terunggul"

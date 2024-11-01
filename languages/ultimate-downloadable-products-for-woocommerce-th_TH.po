@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ultimate-downloadable-products-for-woocommerce\n"
+"POT-Creation-Date: 2022-07-12 16:32+0700\n"
+"PO-Revision-Date: 2022-07-13 11:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: ethereumicoio\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:14
+msgid "Standard"
+msgstr "มาตรฐาน"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:75
+msgid "Settings saved."
+msgstr "การตั้งค่าที่บันทึกไว้."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:93
+#: ultimate-downloadable-products-for-woocommerce.php:559
+msgid "Ultimate Downloadable Products Settings"
+msgstr "การตั้งค่าผลิตภัณฑ์ที่ดาวน์โหลดได้ขั้นสูง"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:99
+msgid "Awesome Premium Features"
+msgstr "คุณสมบัติระดับพรีเมียมที่ยอดเยี่ยม"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:100
+msgid "Per product ultimate downloadable input and more."
+msgstr "อินพุตสูงสุดที่สามารถดาวน์โหลดได้ตามผลิตภัณฑ์และอื่น ๆ"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:102
+msgid "Upgrade Now!"
+msgstr "อัพเกรดเดี๋ยวนี้!"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:126
+msgid "Show downloads tab"
+msgstr "แสดงแท็บดาวน์โหลด"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:130
+msgid "If this setting is set, the Downloads tab is shown on the WooCommerce product page."
+msgstr "หากตั้งค่านี้ไว้ แท็บดาวน์โหลดจะแสดงในหน้าผลิตภัณฑ์ WooCommerce"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:136
+msgid "Show image thumbnails"
+msgstr "แสดงภาพขนาดย่อ"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:147
+msgid "If this setting is set, image type files are shown with thumbnails generated."
+msgstr "หากตั้งค่านี้ไว้ ไฟล์ประเภทรูปภาพจะแสดงด้วยการสร้างภาพขนาดย่อ"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:152
+#: ultimate-downloadable-products-for-woocommerce.admin.php:192
+#: ultimate-downloadable-products-for-woocommerce.admin.php:232
+#: ultimate-downloadable-products-for-woocommerce.admin.php:272
+#, php-format
+msgid "%1$sUpgrade Now!%2$s to enable this feature."
+msgstr "%1$sอัปเกรดทันที!%2$s เพื่อเปิดใช้งานคุณลักษณะนี้"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:164
+#: ultimate-downloadable-products-for-woocommerce.admin.php:204
+#: ultimate-downloadable-products-for-woocommerce.admin.php:244
+#: ultimate-downloadable-products-for-woocommerce.admin.php:284
+#, php-format
+msgid "%1$sThe GD PHP module%2$s is required to enable this feature."
+msgstr "%1$sต้องใช้โมดูล GD PHP%2$s เพื่อเปิดใช้งานคุณลักษณะนี้"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:176
+msgid "Image thumbnail width"
+msgstr "ความกว้างของภาพขนาดย่อ"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:187
+msgid "The generated thumbnail image width in pixels."
+msgstr "ความกว้างของภาพขนาดย่อที่สร้างขึ้นในหน่วยพิกเซล"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:216
+msgid "Blur image thumbnails"
+msgstr "ภาพขนาดย่อของภาพเบลอ"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:227
+msgid ""
+"If this setting is set, thumbnails shown for image type files will be blurred with a "
+"gaussian filter."
+msgstr "หากตั้งค่านี้ไว้ ภาพขนาดย่อที่แสดงสำหรับไฟล์ประเภทรูปภาพจะเบลอด้วยตัวกรองเกาส์เซียน"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:256
+msgid "Blur thumbnail strength"
+msgstr "ความแรงของภาพขนาดย่อเบลอ"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:267
+msgid "The generated thumbnail image blur strength in the gaussian filter runs count."
+msgstr "ความแรงของภาพขนาดย่อที่สร้างขึ้นในตัวกรองเกาส์เซียนจะนับรวม"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:306
+msgid "Want more features?"
+msgstr "ต้องการคุณสมบัติเพิ่มเติมหรือไม่?"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:308
+#, php-format
+msgid "Install the %1$sPRO plugin version%2$s!"
+msgstr "ติดตั้งปลั๊กอินระดับมืออาชีพ %1$sรุ่น%2$s!"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:318
+msgid "Save Changes"
+msgstr "บันทึกการเปลี่ยนแปลง"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:319
+msgid "Are you sure you want to delete all Ultimate Downloadable Products options?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบตัวเลือก Ultimate Downloadable Products ทั้งหมด"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:325
+#, php-format
+msgid ""
+"If you like <strong>Ultimate Downloadable Products for WooCommerce</strong> please leave "
+"us a %1$s rating. A huge thanks in advance!"
+msgstr ""
+"ถ้าคุณชอบ <strong>สุดยอดผลิตภัณฑ์ที่ดาวน์โหลดได้สำหรับ WooCommerce</strong> โปรดให้คะแนน %1$s แก่เรา "
+"ขอบคุณมากล่วงหน้า!"
+
+#: ultimate-downloadable-products-for-woocommerce.php:560
+msgid "Ultimate Downloadable Products"
+msgstr "สุดยอดผลิตภัณฑ์ที่ดาวน์โหลดได้"

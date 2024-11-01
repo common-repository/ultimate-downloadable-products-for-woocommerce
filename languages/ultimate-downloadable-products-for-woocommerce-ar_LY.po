@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ultimate-downloadable-products-for-woocommerce\n"
+"POT-Creation-Date: 2022-06-27 14:20+0700\n"
+"PO-Revision-Date: 2022-06-27 18:50+0700\n"
+"Last-Translator: \n"
+"Language-Team: ethereumicoio\n"
+"Language: ar_LY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:14
+msgid "Standard"
+msgstr "اساسي"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:75
+msgid "Settings saved."
+msgstr "تم حفظ الإعدادات."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:93
+#: ultimate-downloadable-products-for-woocommerce.php:559
+msgid "Ultimate Downloadable Products Settings"
+msgstr "أفضل إعدادات المنتجات القابلة للتنزيل"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:99
+msgid "Awesome Premium Features"
+msgstr "ميزات متميزة رائعة"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:100
+msgid "Per product ultimate downloadable input and more."
+msgstr "لكل منتج نهائي قابل للتنزيل المدخلات وأكثر."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:102
+msgid "Upgrade Now!"
+msgstr "تحديث الآن!"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:126
+msgid "Show downloads tab"
+msgstr "إظهار علامة التبويب \"التنزيلات\""
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:130
+msgid ""
+"If this setting is set, the Downloads tab is shown on the WooCommerce "
+"product page."
+msgstr ""
+"إذا تم تعيين هذا الإعداد ، فستظهر علامة التبويب التنزيلات في صفحة منتج "
+"WooCommerce."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:136
+msgid "Show image thumbnails"
+msgstr "عرض الصور المصغرة"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:147
+msgid ""
+"If this setting is set, image type files are shown with thumbnails generated."
+msgstr ""
+"إذا تم تعيين هذا الإعداد ، يتم عرض ملفات نوع الصورة مع إنشاء الصور المصغرة."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:152
+#: ultimate-downloadable-products-for-woocommerce.admin.php:192
+#: ultimate-downloadable-products-for-woocommerce.admin.php:232
+#: ultimate-downloadable-products-for-woocommerce.admin.php:272
+#, php-format
+msgid "%1$sUpgrade Now!%2$s to enable this feature."
+msgstr "ترقية %1$s الآن! %2$s لتمكين هذه الميزة."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:164
+#: ultimate-downloadable-products-for-woocommerce.admin.php:204
+#: ultimate-downloadable-products-for-woocommerce.admin.php:244
+#: ultimate-downloadable-products-for-woocommerce.admin.php:284
+#, php-format
+msgid "%1$sThe GD PHP module%2$s is required to enable this feature."
+msgstr "%1$sوحدة GD PHP%2$s مطلوبة لتمكين هذه الميزة."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:176
+msgid "Image thumbnail width"
+msgstr "عرض الصورة المصغرة"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:187
+msgid "The generated thumbnail image width in pixels."
+msgstr "عرض الصورة المصغرة التي تم إنشاؤها بالبكسل."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:216
+msgid "Blur image thumbnails"
+msgstr "طمس الصور المصغرة"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:227
+msgid ""
+"If this setting is set, thumbnails shown for image type files will be "
+"blurred with a gaussian filter."
+msgstr ""
+"إذا تم تعيين هذا الإعداد ، فسيتم تعتيم الصور المصغرة المعروضة لملفات نوع "
+"الصورة باستخدام مرشح gaussian."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:256
+msgid "Blur thumbnail strength"
+msgstr "طمس قوة الصورة المصغرة"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:267
+msgid ""
+"The generated thumbnail image blur strength in the gaussian filter runs "
+"count."
+msgstr "عدد قوة طمس الصورة المصغرة التي تم إنشاؤها في تشغيل مرشح gaussian."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:306
+msgid "Want more features?"
+msgstr "هل تريد المزيد من الميزات؟"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:308
+#, php-format
+msgid "Install the %1$sPRO plugin version%2$s!"
+msgstr "%1$s قم بتثبيت إصدار البرنامج المساعد الاحترافي%2$s!"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:318
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:319
+msgid ""
+"Are you sure you want to delete all Ultimate Downloadable Products options?"
+msgstr ""
+"هل أنت متأكد من أنك تريد حذف جميع خيارات Ultimate Downloadable Products؟"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:325
+#, php-format
+msgid ""
+"If you like <strong>Ultimate Downloadable Products for WooCommerce</strong> "
+"please leave us a %1$s rating. A huge thanks in advance!"
+msgstr ""
+"إذا كنت تحب <strong> Ultimate Downloadable Products لـ WooCommerce </"
+"strong> ، فيرجى ترك تقييم%1$s لنا. شكرا جزيلا مقدما!"
+
+#: ultimate-downloadable-products-for-woocommerce.php:560
+msgid "Ultimate Downloadable Products"
+msgstr "المنتجات النهائية القابلة للتنزيل"

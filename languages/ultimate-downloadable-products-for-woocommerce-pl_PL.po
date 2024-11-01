@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ultimate-downloadable-products-for-woocommerce\n"
+"POT-Creation-Date: 2022-07-12 16:32+0700\n"
+"PO-Revision-Date: 2022-07-13 11:48+0700\n"
+"Last-Translator: \n"
+"Language-Team: ethereumicoio\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:14
+msgid "Standard"
+msgstr "Standard"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:75
+msgid "Settings saved."
+msgstr "Ustawienia zapisane."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:93
+#: ultimate-downloadable-products-for-woocommerce.php:559
+msgid "Ultimate Downloadable Products Settings"
+msgstr "Najlepsze ustawienia produktów do pobrania"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:99
+msgid "Awesome Premium Features"
+msgstr "Niesamowite funkcje premium"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:100
+msgid "Per product ultimate downloadable input and more."
+msgstr ""
+"Ostateczne dane wejściowe do pobrania dla każdego produktu i nie tylko."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:102
+msgid "Upgrade Now!"
+msgstr "Ulepsz teraz!"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:126
+msgid "Show downloads tab"
+msgstr "Pokaż kartę pobierania"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:130
+msgid ""
+"If this setting is set, the Downloads tab is shown on the WooCommerce "
+"product page."
+msgstr ""
+"Jeśli to ustawienie jest ustawione, karta Pobieranie jest wyświetlana na "
+"stronie produktu WooCommerce."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:136
+msgid "Show image thumbnails"
+msgstr "Pokaż miniatury obrazów"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:147
+msgid ""
+"If this setting is set, image type files are shown with thumbnails generated."
+msgstr ""
+"Jeśli to ustawienie jest ustawione, pliki typu obrazu są wyświetlane z "
+"wygenerowanymi miniaturami."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:152
+#: ultimate-downloadable-products-for-woocommerce.admin.php:192
+#: ultimate-downloadable-products-for-woocommerce.admin.php:232
+#: ultimate-downloadable-products-for-woocommerce.admin.php:272
+#, php-format
+msgid "%1$sUpgrade Now!%2$s to enable this feature."
+msgstr "%1$sUaktualnij teraz!%2$s, aby włączyć tę funkcję."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:164
+#: ultimate-downloadable-products-for-woocommerce.admin.php:204
+#: ultimate-downloadable-products-for-woocommerce.admin.php:244
+#: ultimate-downloadable-products-for-woocommerce.admin.php:284
+#, php-format
+msgid "%1$sThe GD PHP module%2$s is required to enable this feature."
+msgstr "%1$sDo włączenia tej funkcji wymagany jest moduł GD PHP%2$s."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:176
+msgid "Image thumbnail width"
+msgstr "Szerokość miniatury obrazu"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:187
+msgid "The generated thumbnail image width in pixels."
+msgstr "Wygenerowana szerokość obrazu miniatury w pikselach."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:216
+msgid "Blur image thumbnails"
+msgstr "Rozmyj miniatury obrazów"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:227
+msgid ""
+"If this setting is set, thumbnails shown for image type files will be "
+"blurred with a gaussian filter."
+msgstr ""
+"Jeśli to ustawienie jest ustawione, miniatury wyświetlane dla plików typu "
+"obrazu będą rozmyte przez filtr Gaussa."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:256
+msgid "Blur thumbnail strength"
+msgstr "Siła rozmycia miniatury"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:267
+msgid ""
+"The generated thumbnail image blur strength in the gaussian filter runs "
+"count."
+msgstr ""
+"Wygenerowana siła rozmycia obrazu miniatury w przebiegu filtru Gaussa jest "
+"liczona."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:306
+msgid "Want more features?"
+msgstr "Chcesz więcej funkcji?"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:308
+#, php-format
+msgid "Install the %1$sPRO plugin version%2$s!"
+msgstr "Zainstaluj profesjonalną wtyczkę %1$sw wersji%2$s!"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:318
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:319
+msgid ""
+"Are you sure you want to delete all Ultimate Downloadable Products options?"
+msgstr ""
+"Czy na pewno chcesz usunąć wszystkie opcje Ultimate Downloadable Products?"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:325
+#, php-format
+msgid ""
+"If you like <strong>Ultimate Downloadable Products for WooCommerce</strong> "
+"please leave us a %1$s rating. A huge thanks in advance!"
+msgstr ""
+"Jeśli podoba Ci się <strong>Ultimate Downloadable Products for WooCommerce</"
+"strong>, zostaw nam ocenę %1$s. Z góry wielkie dzięki!"
+
+#: ultimate-downloadable-products-for-woocommerce.php:560
+msgid "Ultimate Downloadable Products"
+msgstr "Najlepsze produkty do pobrania"

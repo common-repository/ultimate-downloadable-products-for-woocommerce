@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ultimate-downloadable-products-for-woocommerce\n"
+"POT-Creation-Date: 2022-07-12 16:32+0700\n"
+"PO-Revision-Date: 2022-07-13 12:00+0700\n"
+"Last-Translator: \n"
+"Language-Team: ethereumicoio\n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:14
+msgid "Standard"
+msgstr "Štandardné"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:75
+msgid "Settings saved."
+msgstr "Nastavenia boli uložené."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:93
+#: ultimate-downloadable-products-for-woocommerce.php:559
+msgid "Ultimate Downloadable Products Settings"
+msgstr "Konečné nastavenia produktov na stiahnutie"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:99
+msgid "Awesome Premium Features"
+msgstr "Úžasné prémiové funkcie"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:100
+msgid "Per product ultimate downloadable input and more."
+msgstr "Konečný stiahnuteľný vstup pre jednotlivé produkty a ďalšie."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:102
+msgid "Upgrade Now!"
+msgstr "Vylepšiť teraz!"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:126
+msgid "Show downloads tab"
+msgstr "Zobraziť kartu sťahovania"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:130
+msgid ""
+"If this setting is set, the Downloads tab is shown on the WooCommerce "
+"product page."
+msgstr ""
+"Ak je toto nastavenie nastavené, na stránke produktu WooCommerce sa zobrazí "
+"karta Downloads."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:136
+msgid "Show image thumbnails"
+msgstr "Zobraziť miniatúry obrázkov"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:147
+msgid ""
+"If this setting is set, image type files are shown with thumbnails generated."
+msgstr ""
+"Ak je toto nastavenie nastavené, súbory typu obrázkov sa zobrazia s "
+"vygenerovanými miniatúrami."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:152
+#: ultimate-downloadable-products-for-woocommerce.admin.php:192
+#: ultimate-downloadable-products-for-woocommerce.admin.php:232
+#: ultimate-downloadable-products-for-woocommerce.admin.php:272
+#, php-format
+msgid "%1$sUpgrade Now!%2$s to enable this feature."
+msgstr "Ak chcete povoliť túto funkciu, %1$sInovujte teraz!%2$s."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:164
+#: ultimate-downloadable-products-for-woocommerce.admin.php:204
+#: ultimate-downloadable-products-for-woocommerce.admin.php:244
+#: ultimate-downloadable-products-for-woocommerce.admin.php:284
+#, php-format
+msgid "%1$sThe GD PHP module%2$s is required to enable this feature."
+msgstr "Na povolenie tejto funkcie je potrebný %1$smodul GD PHP%2$s."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:176
+msgid "Image thumbnail width"
+msgstr "Šírka miniatúry obrázka"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:187
+msgid "The generated thumbnail image width in pixels."
+msgstr "Šírka vygenerovaného miniatúrneho obrázka v pixeloch."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:216
+msgid "Blur image thumbnails"
+msgstr "Rozmazanie miniatúr obrázkov"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:227
+msgid ""
+"If this setting is set, thumbnails shown for image type files will be "
+"blurred with a gaussian filter."
+msgstr ""
+"Ak je toto nastavenie nastavené, miniatúry zobrazené pre súbory typu "
+"obrázkov budú rozmazané pomocou gaussovského filtra."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:256
+msgid "Blur thumbnail strength"
+msgstr "Sila rozmazania miniatúry"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:267
+msgid ""
+"The generated thumbnail image blur strength in the gaussian filter runs "
+"count."
+msgstr ""
+"Intenzita rozmazania vygenerovaného miniatúrneho obrázka pri počte cyklov "
+"gaussovského filtra."
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:306
+msgid "Want more features?"
+msgstr "Chcete viac funkcií?"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:308
+#, php-format
+msgid "Install the %1$sPRO plugin version%2$s!"
+msgstr "Nainštalujte %1$s profesionálnu verziu doplnku%2$s!"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:318
+msgid "Save Changes"
+msgstr "Uložiť zmeny"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:319
+msgid ""
+"Are you sure you want to delete all Ultimate Downloadable Products options?"
+msgstr ""
+"Naozaj chcete odstrániť všetky možnosti Ultimate Downloadable Products?"
+
+#: ultimate-downloadable-products-for-woocommerce.admin.php:325
+#, php-format
+msgid ""
+"If you like <strong>Ultimate Downloadable Products for WooCommerce</strong> "
+"please leave us a %1$s rating. A huge thanks in advance!"
+msgstr ""
+"Ak sa vám páči <strong>Ultimate Downloadable Products for WooCommerce</"
+"strong>, zanechajte nám hodnotenie %1$s. Vopred veľká vďaka!"
+
+#: ultimate-downloadable-products-for-woocommerce.php:560
+msgid "Ultimate Downloadable Products"
+msgstr "Špičkové produkty na stiahnutie"

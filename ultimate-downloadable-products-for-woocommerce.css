@@ -1,0 +1,48 @@
+.ultimate-downloadable-products-image-wrapper-landscape {
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.ultimate-downloadable-products-image-wrapper-landscape img {
+  width: auto;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+}
+
+.ultimate-downloadable-products-image-wrapper-portrait {
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.ultimate-downloadable-products-image-wrapper-portrait img {
+  width: 100%;
+  height: auto;
+}
+
+.ultimate-downloadable-products-wrapper {
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+
+.ultimate-downloadable-products-list {
+  list-style: none;
+}
+
+.ultimate-downloadable-products-title {
+  word-break: break-all;
+}
+
+.ultimate-downloadable-products-archive-item-wrapper {
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+
+.ultimate-downloadable-products-archive-item-title {
+  word-break: break-all;
+}
